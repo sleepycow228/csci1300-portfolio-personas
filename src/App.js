@@ -20,7 +20,7 @@ function App() {
             <NavBar />
             <AppHeader title="Spin User Assesment" subtitle="Personas & Storyboard" />
             <Personas />
-            <a href="https://sleepycow228.github.io/csci-1300-portfolio" className="HomeButton">
+            <a href="https://sleepycow228.github.io/csci1300-portfolio" className="HomeButton">
               Return To Home</a>
           </>
         } />
@@ -62,8 +62,8 @@ function NavBar() {
   return (
     <div className='NavBar' id='NavBar'>
       <nav>
-        <a className='NavBarElement' href="https://sleepycow228.github.io/csci-1300-portfolio"> Home</a>
-        <a className='NavBarElement' href="https://sleepycow228.github.io/csci-1300-portfolio/#AboutMe"> About Me</a>
+        <a className='NavBarElement' href="https://sleepycow228.github.io/csci1300-portfolio"> Home</a>
+        <a className='NavBarElement' href="https://sleepycow228.github.io/csci1300-portfolio/#AboutMe"> About Me</a>
       </nav>
     </div>
   )

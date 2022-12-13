@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/csci1300-portfolio-personas/static/css/main.515d9057.css",
+    "main.js": "/csci1300-portfolio-personas/static/js/main.c2211009.js",
+    "static/media/background.png": "/csci1300-portfolio-personas/static/media/background.067ba0dafc57b28d708a.png",
+    "index.html": "/csci1300-portfolio-personas/index.html",
+    "main.515d9057.css.map": "/csci1300-portfolio-personas/static/css/main.515d9057.css.map",
+    "main.c2211009.js.map": "/csci1300-portfolio-personas/static/js/main.c2211009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.515d9057.css",
+    "static/js/main.c2211009.js"
+  ]
+}
